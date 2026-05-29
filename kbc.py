@@ -36,7 +36,7 @@ for i in range(0,len(questions)):
     else:
       print("OOPS! you choose incorrect answer")   
       break        
-print(f" Finally ! your winning price is {money}.")
+print(f" Finally ! your winning price is {money}. hurry wow😀")
 
         
 
